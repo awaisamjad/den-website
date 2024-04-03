@@ -44,7 +44,9 @@ let data = [
 ];
 
 </script>
-
+<h1 class="text-6xl font-bold underline">
+    Hello world!
+  </h1>
 <ul class="list">
 	{#each data as item}
         <MemoryCard gif="https://media.giphy.com/media/3o7TKz9bX9v9KzCnXq/giphy.gif", title= 
