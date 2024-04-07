@@ -8,7 +8,7 @@
     }
 </script>
 
-<div id="card" class="w-card h-card perspective" on:click={flipCard}>
+<button id="card" class="w-card h-card perspective" on:click={flipCard}>
     <div id="card-inner" class:flipped={isFlipped}>
         <div id="card-front" class="card-face flex flex-col items-center bg-blue-900 mx-3 mt-3 rounded-lg shadow-card">
             <div class = "mt-4" >
@@ -25,7 +25,7 @@
 			</div>
         </div>
     </div>
-</div>
+</button>
 
 <style>
     .perspective {

@@ -1,6 +1,7 @@
 <script>
 	import MemoryCard from '../lib/components/MemoryCard.svelte';
 	import FlipCard from '../lib/components/FlipCard.svelte';
+    import Test from '../lib/components/Test.svelte';
 	let data = [
 		{
 			title: 'Aortic Dissection',
@@ -68,7 +69,7 @@
 	</ul>
 </div>
 
-<!-- <FlipCard/> -->
+
 <style>
 	.list {
 		display: flex;
