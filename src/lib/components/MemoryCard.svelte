@@ -10,7 +10,7 @@
 
 <!-- svelte-ignore a11y-no-static-element-interactions -->
 <!-- svelte-ignore a11y-click-events-have-key-events -->
-<div id="card" class="w-card h-card perspective" on:click={flipCard}>
+<div id="card" class="w-card h-card perspective mb-3" on:click={flipCard}>
     <div id="card-inner" class:flipped={isFlipped}>
 		<!-- FRONT CARD -->
         <div id="card-front" class="card-face flex flex-col items-center bg-blue-900 mx-3 mt-3 rounded-lg">
@@ -26,8 +26,11 @@
 				<div class = "mt-4" >
 					<span class="text-2xl font-semibold text-center text-white">{title}</span>
 				</div>
-				<p class="text-white text-center mt-3">{content}</p>
+                <div class="mt-3">
+                    <p class="text-white text-left m-5 text-2xl">{content}</p>
+                </div>
 			</div>
+            <button class="w-24 h-10 mb-8 bg-blue-500 text-white rounded-lg">Open</button>
         </div>
 
     </div>

@@ -56,7 +56,7 @@
 	];
 </script>
 
-<div id="main" class="bg-blue-200 h-screen">
+<div id="main" class="bg-blue-300">
 	<!-- TITLE and LOGO -->
 	<div class="flex justify-evenly">
 		<h1 class="title-text-style ">Memory</h1>
@@ -70,16 +70,15 @@
 
 	<!-- Display of cards -->
 	<ul class="list">
-        <div class="flex flex-wrap justify-center items-center">
+        <!-- <div class="flex flex-wrap justify-center items-center"> -->
 		{#each data as item}
 			<MemoryCard
 				gif="https://media.giphy.com/media/3o7TKz9bX9v9KzCnXq/giphy.gif"
-				,
 				title={item.title}
 				content={item.content}
 			/>
 		{/each}
-    </div>
+    <!-- </div> -->
 	</ul>
     
 </div>
@@ -88,9 +87,8 @@
 	.list {
 		display: flex;
 		flex-wrap: wrap;
-		justify-content: space-between;
+		justify-content: space-around;
 		list-style: none;
-		padding: 0;
 	}
 
 	@media (max-width: 400px) {
