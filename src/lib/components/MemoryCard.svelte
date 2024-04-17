@@ -13,10 +13,17 @@
 <!-- svelte-ignore a11y-click-events-have-key-events -->
 <div id="card" class="w-card h-card perspective mb-3" on:click={flipCard}>
 	<div id="card-inner" class:flipped={isFlipped}>
+		<!--
+			If isFlipped is true, HTML will be:
+			<div id="card-inner" class="flipped">
+
+			Otherwise, it will be:
+			<div id="card-inner">
+		 -->
 		<!-- FRONT CARD -->
 		<div
 			id="card-front"
-			class="card-face flex flex-col items-center bg-blue-900 mx-3 mt-3 rounded-lg"
+			class="card-face flex flex-col items-center bg-blue-400 mx-3 mt-3 rounded-lg"
 		>
 			<div class="mt-4">
 				<span class="text-2xl font-semibold text-center text-white">{title}</span>
@@ -27,9 +34,9 @@
 		<!-- BACK CARD -->
 		<div
 			id="card-back"
-			class="card-face flex flex-col items-center bg-blue-900 mx-3 my-3 rounded-lg"
+			class="card-face flex flex-col items-center bg-blue-400 mx-3 my-3 rounded-lg"
 		>
-			<div class="flex flex-col items-center w-card h-card bg-blue-900 mx-3 mt-3 rounded-sm">
+			<div class="flex flex-col items-center w-card h-card bg-blue-400 mx-3 mt-3 rounded-sm">
 				<div class="mt-4">
 					<span class="text-2xl font-semibold text-center text-white">{title}</span>
 				</div>
@@ -55,6 +62,7 @@
 		text-align: center;
 		transition: transform 0.8s;
 		transform-style: preserve-3d;
+		transform-origin: center;
 	}
 	.card-face {
 		position: absolute;

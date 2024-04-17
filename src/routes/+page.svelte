@@ -1,5 +1,6 @@
 <script>
 	import MemoryCard from '../lib/components/MemoryCard.svelte';
+	import SideBar from '../lib/components/SideBar.svelte';
 	import Test from '../lib/components/Test.svelte';
 	let data = [
 		{
@@ -65,7 +66,8 @@
 	];
 </script>
 
-<div id="main" class="bg-blue-300">
+<div id="main" class="bg-blue-100">
+	<!-- <SideBar/> -->
 	<!-- TITLE and LOGO -->
 	<div class="flex justify-evenly">
 		<h1 class="title-text-style ">Memory</h1>
