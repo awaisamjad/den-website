@@ -8,8 +8,8 @@ body{
 
 @layer components {
 	.title-text-style {
-		@apply text-4xl font-bold text-center text-blue-900 mt-4 
-		md:text-5xl
+		@apply text-5xl font-bold text-center text-blue-900 mt-4 
+		md:text-6xl
     	lg:text-7xl;
 	}
 }
