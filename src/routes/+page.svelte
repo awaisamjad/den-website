@@ -2,7 +2,7 @@
 	import MemoryCard from '../lib/components/MemoryCard.svelte';
 	import logo from '../lib/assets/logo.svg';
 	import SideBar from '../lib/components/SideBar.svelte';
-	import AppRail from '../lib/components/AppRail.svelte';
+	// import AppRail from '../lib/components/AppRail.svelte';
 	import Test from '../lib/components/Test.svelte';
 	let data = [
 		{
@@ -70,7 +70,7 @@
 
 <div id="main" class="bg-[--primary-colour]">
 	<div id="sidebar" class="outline outline-red-600 outline-2">
-		<!-- <SideBar/> -->
+		<SideBar/>
 	</div>
 	<!-- TITLE and LOGO -->
 	<div class="flex justify-center">
