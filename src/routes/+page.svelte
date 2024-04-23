@@ -2,6 +2,7 @@
 	import MemoryCard from '../lib/components/MemoryCard.svelte';
 	import logo from '../lib/assets/logo.svg';
 	import SideBar from '../lib/components/SideBar.svelte';
+	import AppRail from '../lib/components/AppRail.svelte';
 	import Test from '../lib/components/Test.svelte';
 	let data = [
 		{
@@ -67,18 +68,35 @@
 	];
 </script>
 
-<div id="main" class="bg-blue-100">
-	<!-- <SideBar/> -->
+<div id="main" class="bg-[--primary-colour]">
+	<div id="sidebar" class="outline outline-red-600 outline-2">
+		<!-- <SideBar/> -->
+	</div>
 	<!-- TITLE and LOGO -->
-	<div class="flex  justify-center ">
-		<h1 class="title-text-style ">Memory</h1>
-		<img
-			src="{logo}"
-			alt="LOGO"
-			class="w-24 h-24 rounded-lg mt-4"
-		/>
-		
-		<h1 class="title-text-style">Project</h1>
+	<div class="flex justify-center">
+		<h1 class="
+		text-5xl font-bold text-center mt-4 text-[--text-colour]
+		md:text-6xl
+    	lg:text-7xl">
+			Memory
+		</h1>
+		<div class="rounded-full w-[44px] bg-[--secondary-colour] justify-center
+		md:w-[64px] 
+		lg:w-[84px] 
+		">
+			<img src={logo} alt="LOGO" class="
+			w-[40px] rounded-lg mt-1 mx-auto
+			md:w-[60px] 
+			lg:w-[80px] 
+			"/>
+			<!-- w-[120px] h-[120px] rounded-lg mt-2 mx-auto -->
+		</div>
+		<h1 class="
+		text-5xl font-bold text-center mt-4 text-[--text-colour]
+		md:text-6xl
+    	lg:text-7xl">
+			Project
+		</h1>
 	</div>
 
 	<!-- Display of cards -->
@@ -92,7 +110,6 @@
 			/>
 		{/each}
 	</ul>
-    
 </div>
 
 <style>

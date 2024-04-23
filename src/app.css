@@ -2,14 +2,18 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+	--primary-colour: #AFD0D2;
+	--text-colour: #041F39;
+	--secondary-colour: #FAFAFA
+	--card-colour : "#72BCF1"
+  }
 body{
 	font-family : "Poppins", sans-serif;
 }
 
-@layer components {
+/* @layer components {
 	.title-text-style {
-		@apply text-5xl font-bold text-center text-blue-900 mt-4 
-		md:text-6xl
-    	lg:text-7xl;
+		@apply ;
 	}
-}
+} */
