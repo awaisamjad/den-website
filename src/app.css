@@ -5,11 +5,16 @@
 :root {
 	--primary-colour: #AFD0D2;
 	--text-colour: #041F39;
-	--secondary-colour: #FAFAFA
-	--card-colour : "#72BCF1"
-  }
-body{
-	font-family : "Poppins", sans-serif;
+	--secondary-colour: #FAFAFA;
+	--card-colour: #72BCF1;
+	--light-blue: #B7E2E4;
+	--red: #CE5A1B;
+	--white: #F1F2F2;
+	--turquoise: #009397;
+}
+
+body {
+	font-family: "Poppins", sans-serif;
 }
 
 /* @layer components {

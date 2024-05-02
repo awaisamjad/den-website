@@ -8,7 +8,7 @@
 			<img src="src/lib/assets/sidebar-logo.svg" alt="Tailwind CSS Logo" />
 		</div>
 		<nav class="flex flex-1 flex-col gap-y-4 pt-10">
-			<a href="#" class="group relative rounded-xl bg-gray-100 p-2 text-blue-600 hover:bg-gray-50">
+			<a href="google.com" class="group relative rounded-xl bg-gray-100 p-2 text-blue-600 hover:bg-gray-50">
 				<svg
 					class="h-6 w-6 stroke-current"
 					width="24"
@@ -41,7 +41,7 @@
 					</div>
 				</div>
 			</a>
-			<a href="#" class="text-gary-400 group relative rounded-xl p-2 hover:bg-gray-50">
+			<a href="google.com" class="text-gary-400 group relative rounded-xl p-2 hover:bg-gray-50">
 				<svg
 					width="24"
 					height="24"
