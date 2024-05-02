@@ -23,7 +23,7 @@
 		<!-- FRONT CARD -->
 		<div
 			id="card-front"
-			class="card-face flex flex-col items-center bg-blue-400 mx-3 mt-3 rounded-lg"
+			class="card-face flex flex-col items-center bg-[--card-colour] mx-3 mt-3 rounded-lg"
 		>
 			<div class="mt-4">
 				<span class="text-2xl font-semibold text-center text-white">{title}</span>
@@ -34,9 +34,9 @@
 		<!-- BACK CARD -->
 		<div
 			id="card-back"
-			class="card-face flex flex-col items-center bg-blue-400 mx-3 my-3 rounded-lg"
+			class="card-face flex flex-col items-center  bg-[--card-colour] mx-3 my-3 rounded-lg"
 		>
-			<div class="flex flex-col items-center w-card h-card bg-blue-400 mx-3 mt-3 rounded-sm">
+			<div class="flex flex-col items-center w-card h-card bg-[--card-colour] mx-3 mt-3 rounded-sm">
 				<div class="mt-4">
 					<span class="text-2xl font-semibold text-center text-white">{title}</span>
 				</div>
