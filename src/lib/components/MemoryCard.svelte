@@ -11,7 +11,7 @@
 
 <!-- svelte-ignore a11y-no-static-element-interactions -->
 <!-- svelte-ignore a11y-click-events-have-key-events -->
-<div id="card" class="w-card h-card perspective mb-3" on:click={flipCard}>
+<div id="card" class="w-card h-card perspective" on:click={flipCard}>
 	<div id="card-inner" class:flipped={isFlipped}>
 		<!--
 			If isFlipped is true, HTML will be:
@@ -23,7 +23,7 @@
 		<!-- FRONT CARD -->
 		<div
 			id="card-front"
-			class="card-face flex flex-col items-center bg-[--card-colour] mx-3 mt-3 rounded-lg"
+			class="card-face flex flex-col items-center bg-[--card-colour] mx-3 my-3 rounded-lg"
 		>
 			<div class="mt-4">
 				<span class="text-2xl font-semibold text-center text-white">{title}</span>
@@ -41,7 +41,7 @@
 					<span class="text-2xl font-semibold text-center text-white">{title}</span>
 				</div>
 				<div class="mt-3">
-					<p class="text-white text-center m-5 text-2xl">{content}</p>
+					<p class="text-white text-center m-5 text-xl">{content}</p>
 				</div>
 			</div>
 			<a href={url} target="_blank">

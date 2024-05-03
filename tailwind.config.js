@@ -21,8 +21,8 @@ export default {
     },
     extend: {
       height: {
-        'card': '600px',
-        'logo': '520px',
+        'card': '453px',
+        'logo': '380px',
       },
       width: {
         'card': '400px',
