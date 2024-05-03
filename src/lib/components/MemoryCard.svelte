@@ -45,7 +45,7 @@
 				</div>
 			</div>
 			<a href={url} target="_blank">
-				<button class="w-24 h-10 mb-8 bg-blue-500 text-white rounded-lg text-lg"> Open </button>
+				<button class="w-24 h-10 mb-8 bg-[--turquoise] text-white rounded-lg text-lg"> Open </button>
 			</a>
 		</div>
 	</div>

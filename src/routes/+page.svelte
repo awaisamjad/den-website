@@ -78,7 +78,7 @@
 	];
 </script>
 
-<div id="main" class="bg-[--primary-colour]">
+<div id="main" class="bg-[--primary-colour] overflow-x-auto overflow-y-hidden">
 	<!-- <div id="sidebar" class="outline outline-red-600 outline-2">
 		<SideBar/>
 	</div> -->
@@ -120,7 +120,7 @@
 	</div>
 
 	<!-- Display of cards -->
-	<ul class="list">
+	<ul class="list ">
 		{#each data as item}
 			<MemoryCard gif={item.gif} title={item.title} content={item.content} url={item.url} />
 		{/each}
@@ -128,6 +128,7 @@
 </div>
 
 <style>
+
 	.list {
 		display: flex;
 		flex-wrap: wrap;
