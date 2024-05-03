@@ -93,9 +93,9 @@
 			Memory
 		</h1>
 		<div
-			class="rounded-full w-[44px] bg-[--secondary-colour] justify-center
-		md:w-[64px]
-		lg:w-[84px]
+			class="rounded-full w-[44px] h-[44px]  bg-[--secondary-colour] justify-center mt-4
+			md:w-[64px] md:h-[64px] 
+			lg:w-[80px] lg:h-[80px] lg:mt-6
 		"
 		>
 			<img
@@ -104,7 +104,7 @@
 				class="
 			w-[40px] rounded-lg mt-1 mx-auto
 			md:w-[60px]
-			lg:w-[80px]
+			lg:w-[76px]
 			"
 			/>
 			<!-- w-[120px] h-[120px] rounded-lg mt-2 mx-auto -->
