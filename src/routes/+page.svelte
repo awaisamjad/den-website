@@ -76,6 +76,15 @@
 			gif: '/dd.gif'
 		}
 	];
+	import Login from '../lib/components/Login.svelte';
+	import Form from '../lib/components/Form.svelte';
+	import { goto } from '$app/navigation';
+
+
+	function add() {
+		goto('/Add');
+	}	
+
 </script>
 
 <div id="main" class="bg-[--primary-colour] overflow-x-auto overflow-y-hidden">
@@ -117,9 +126,13 @@
 		>
 			Project
 		</h1>
+
+		<button class="bg-slate-400 w-auto h-10 px-4 py-2 rounded-md text-white font-semibold shadow-md hover:bg-slate-500 focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-opacity-50" on:click={add}>
+			ADD
+		</button>
 	</div>
 
-	<!-- Display of cards -->
+	<!-- Display of cards --> 
 	<ul class="list ">
 		{#each data as item}
 			<MemoryCard gif={item.gif} title={item.title} content={item.content} url={item.url} />
