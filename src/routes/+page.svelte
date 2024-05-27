@@ -1,6 +1,6 @@
 <script>
 	import MemoryCard from '../lib/components/MemoryCard.svelte';
-	import logo from '../lib/assets/logo.svg';
+	import logo from '../lib/assets/logo.gif';
 	import arrow from '../lib/assets/arrow.svg';
 	import { goto } from '$app/navigation';
 	import data from '/src/data.json';
@@ -39,10 +39,9 @@
 			</button>
 		</div>
 		<div class="flex flex-col items-center text-white text-2xl pb-3">
-			<img src={arrow} alt="arrow" class="w-52  h-52 animate-bounce" />
+			<img src={arrow} alt="arrow" class="w-52 h-52 animate-bounce" />
 			<p>Swipe Below</p>
 		</div>
-		
 	</div>
 	<!-- Display of cards -->
 	<ul class="list">
