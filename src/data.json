@@ -6,16 +6,34 @@
         "gif": "/aortic.gif"
     },
     {
-        "title": "Abnormal Results",
-        "content": "An aortic aneurysm is an abnormal bulge that occurs in the wall of the major blood vessel (aorta) that carries blood from your heart to your body. Aortic aneurysms can occur anywhere in your aorta and may be tube-shaped (fusiform) or round (saccular).",
-        "url": "https://en.wikipedia.org/wiki/Aortic_aneurysm",
-        "gif": "/abnormal_results.gif"
-    },
-    {
         "title": "Blood Test",
         "content": "Aortic stenosis is a narrowing of the aortic valve opening. The aortic valve allows blood to flow from the heart's lower left chamber (ventricle) into the aorta and to the body. The narrowing of the aortic valve prevents the valve from opening fully, which obstructs blood flow from your heart into the aorta and the rest of your body.",
         "url": "https://en.wikipedia.org/wiki/Aortic_stenosis",
         "gif": "/blood.gif"
+    },
+    {
+        "title": "Think 'WHY' the symptoms",
+        "content": "Aortic valve repair is a surgical procedure to fix a damaged or diseased aortic valve without replacing it. The goal of aortic valve repair is to restore the normal function of the valve and improve blood flow.",
+        "url": "https://en.wikipedia.org/wiki/Aortic_valve_repair",
+        "gif": "/checklist.gif"
+    },
+    {
+        "title": "Double Dosing",
+        "content": "Aortic valve repair is a surgical procedure to fix a damaged or diseased aortic valve without replacing it. The goal of aortic valve repair is to restore the normal function of the valve and improve blood flow.",
+        "url": "https://en.wikipedia.org/wiki/Aortic_valve_repair",
+        "gif": "/double.gif"
+    },
+    {
+        "title": "Haemophilia",
+        "content": "Aortic valve repair is a surgical procedure to fix a damaged or diseased aortic valve without replacing it. The goal of aortic valve repair is to restore the normal function of the valve and improve blood flow.",
+        "url": "https://en.wikipedia.org/wiki/Aortic_valve_repair",
+        "gif": "/haemophilia.gif"
+    },
+    {
+        "title": "Abnormal Results",
+        "content": "An aortic aneurysm is an abnormal bulge that occurs in the wall of the major blood vessel (aorta) that carries blood from your heart to your body. Aortic aneurysms can occur anywhere in your aorta and may be tube-shaped (fusiform) or round (saccular).",
+        "url": "https://en.wikipedia.org/wiki/Aortic_aneurysm",
+        "gif": "/abnormal_results.gif"
     },
     {
         "title": "Check Yourself",
@@ -54,12 +72,6 @@
         "gif": "/double_check_doses.gif"
     },
     {
-        "title": "Double Dosing",
-        "content": "Aortic valve repair is a surgical procedure to fix a damaged or diseased aortic valve without replacing it. The goal of aortic valve repair is to restore the normal function of the valve and improve blood flow.",
-        "url": "https://en.wikipedia.org/wiki/Aortic_valve_repair",
-        "gif": "/double.gif"
-    },
-    {
         "title": "ECG Changes",
         "content": "Aortic valve repair is a surgical procedure to fix a damaged or diseased aortic valve without replacing it. The goal of aortic valve repair is to restore the normal function of the valve and improve blood flow.",
         "url": "https://en.wikipedia.org/wiki/Aortic_valve_repair",
@@ -70,12 +82,6 @@
         "content": "Aortic valve repair is a surgical procedure to fix a damaged or diseased aortic valve without replacing it. The goal of aortic valve repair is to restore the normal function of the valve and improve blood flow.",
         "url": "https://en.wikipedia.org/wiki/Aortic_valve_repair",
         "gif": "/elderly_with_abdominal_pain.gif"
-    },
-    {
-        "title": "Haemophilia",
-        "content": "Aortic valve repair is a surgical procedure to fix a damaged or diseased aortic valve without replacing it. The goal of aortic valve repair is to restore the normal function of the valve and improve blood flow.",
-        "url": "https://en.wikipedia.org/wiki/Aortic_valve_repair",
-        "gif": "/haemophilia.gif"
     },
     {
         "title": "Head Injury",
@@ -124,12 +130,6 @@
         "content": "Aortic valve repair is a surgical procedure to fix a damaged or diseased aortic valve without replacing it. The goal of aortic valve repair is to restore the normal function of the valve and improve blood flow.",
         "url": "https://en.wikipedia.org/wiki/Aortic_valve_repair",
         "gif": "/think_aorta.gif"
-    },
-    {
-        "title": "Think 'WHY' the symptoms",
-        "content": "Aortic valve repair is a surgical procedure to fix a damaged or diseased aortic valve without replacing it. The goal of aortic valve repair is to restore the normal function of the valve and improve blood flow.",
-        "url": "https://en.wikipedia.org/wiki/Aortic_valve_repair",
-        "gif": "/think_why_the_symptoms.gif"
     },
     {
         "title": "Trauma patient on CDU",
