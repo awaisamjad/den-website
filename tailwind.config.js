@@ -26,7 +26,7 @@ export default {
         'logo': '380px',
       },
       width: {
-        'card': '400px',
+        'card': '390px',
         'logo': '380px',
       },
       boxShadow: {

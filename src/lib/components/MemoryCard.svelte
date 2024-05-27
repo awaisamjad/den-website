@@ -34,7 +34,7 @@
 		<!-- BACK CARD -->
 		<div
 			id="card-back"
-			class="card-face flex flex-col items-center  bg-[--card-colour] mx-3 my-3 rounded-lg"
+			class="card-face flex flex-col items-center bg-[--card-colour] mx-3 my-3 rounded-lg"
 		>
 			<div class="flex flex-col items-center w-card h-card bg-[--card-colour] mx-3 mt-3 rounded-sm">
 				<div class="mt-4">
