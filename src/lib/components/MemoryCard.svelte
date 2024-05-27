@@ -28,7 +28,7 @@
 			<div class="mt-4">
 				<span class="text-2xl font-semibold text-center text-white">{title}</span>
 			</div>
-			<img id="gif" src={gif} alt="GIF" class="w-logo h-logo rounded-lg mt-3" />
+			<img id="gif" src={gif} alt="Work in Progress" class="w-logo h-logo rounded-lg mt-3" />
 		</div>
 
 		<!-- BACK CARD -->

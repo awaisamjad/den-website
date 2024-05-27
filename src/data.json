@@ -6,57 +6,141 @@
         "gif": "/aortic.gif"
     },
     {
-        "title": "Aortic Aneurysm",
+        "title": "Abnormal Results",
         "content": "An aortic aneurysm is an abnormal bulge that occurs in the wall of the major blood vessel (aorta) that carries blood from your heart to your body. Aortic aneurysms can occur anywhere in your aorta and may be tube-shaped (fusiform) or round (saccular).",
         "url": "https://en.wikipedia.org/wiki/Aortic_aneurysm",
-        "gif": "/dd.gif"
+        "gif": "/abnormal_results.gif"
     },
     {
-        "title": "Aortic Stenosis",
+        "title": "Blood Test",
         "content": "Aortic stenosis is a narrowing of the aortic valve opening. The aortic valve allows blood to flow from the heart's lower left chamber (ventricle) into the aorta and to the body. The narrowing of the aortic valve prevents the valve from opening fully, which obstructs blood flow from your heart into the aorta and the rest of your body.",
         "url": "https://en.wikipedia.org/wiki/Aortic_stenosis",
-        "gif": "/aortic.gif"
+        "gif": "/blood.gif"
     },
     {
-        "title": "Aortic Regurgitation",
+        "title": "Check Yourself",
         "content": "Aortic regurgitation is a condition that occurs when your heart's aortic valve doesn't close tightly. Aortic regurgitation allows some of the blood that was just pumped out of your heart's main pumping chamber (left ventricle) to leak back into it.",
         "url": "https://en.wikipedia.org/wiki/Aortic_regurgitation",
-        "gif": "/dd.gif"
+        "gif": "/check_yourself.gif"
     },
     {
-        "title": "Aortic Valve Disease",
+        "title": "Covid and Clots",
         "content": "Aortic valve disease can include aortic stenosis, aortic regurgitation, and bicuspid aortic valve disease. Aortic valve disease can be congenital (present at birth) or acquired (develops after birth).",
         "url": "https://en.wikipedia.org/wiki/Aortic_valve_disease",
-        "gif": "/aortic.gif"
+        "gif": "/covid_and_clots.gif"
     },
     {
-        "title": "Aortic Valve Stenosis",
+        "title": "Covid Look After Yourself",
         "content": "Aortic valve stenosis is a condition in which the aortic valve narrows, preventing it from opening fully. This can reduce or block blood flow from your heart to the rest of your body.",
         "url": "https://en.wikipedia.org/wiki/Aortic_valve_stenosis",
-        "gif": "/dd.gif"
+        "gif": "/covid_look_after_yourself.gif"
     },
     {
-        "title": "Aortic Valve Regurgitation",
+        "title": "Difficult Patients",
         "content": "Aortic valve regurgitation is a condition that occurs when the aortic valve doesn't close tightly. Aortic valve regurgitation allows some of the blood that was just pumped out of your heart's main pumping chamber (left ventricle) to leak back into it.",
         "url": "https://en.wikipedia.org/wiki/Aortic_valve_regurgitation",
-        "gif": "/aortic.gif"
+        "gif": "/difficult_patients.gif"
     },
     {
-        "title": "Aortic Valve Prolapse",
+        "title": "Do not Copy and Paste",
         "content": "Aortic valve prolapse is a condition in which the aortic valve doesn't close properly. The aortic valve is located between the lower left heart chamber (left ventricle) and the aorta. Normally, the aortic valve closes tightly to prevent blood from flowing back",
         "url": "https://en.wikipedia.org/wiki/Aortic_valve_prolapse",
-        "gif": "/dd.gif"
+        "gif": "/do_not_copy_and_paste.gif"
     },
     {
-        "title": "Aortic Valve Replacement",
+        "title": "Double Check Doses",
         "content": "Aortic valve replacement is a surgical procedure to replace a damaged or diseased aortic valve with a new valve made from synthetic materials or animal tissue.",
         "url": "https://en.wikipedia.org/wiki/Aortic_valve_replacement",
-        "gif": "/aortic.gif"
+        "gif": "/double_check_doses.gif"
     },
     {
-        "title": "Aortic Valve Repair",
+        "title": "Double Dosing",
         "content": "Aortic valve repair is a surgical procedure to fix a damaged or diseased aortic valve without replacing it. The goal of aortic valve repair is to restore the normal function of the valve and improve blood flow.",
         "url": "https://en.wikipedia.org/wiki/Aortic_valve_repair",
-        "gif": "/dd.gif"
+        "gif": "/double.gif"
+    },
+    {
+        "title": "ECG Changes",
+        "content": "Aortic valve repair is a surgical procedure to fix a damaged or diseased aortic valve without replacing it. The goal of aortic valve repair is to restore the normal function of the valve and improve blood flow.",
+        "url": "https://en.wikipedia.org/wiki/Aortic_valve_repair",
+        "gif": "/ecg_changes.gif"
+    },
+    {
+        "title": "Elderly with Abdominal Pain",
+        "content": "Aortic valve repair is a surgical procedure to fix a damaged or diseased aortic valve without replacing it. The goal of aortic valve repair is to restore the normal function of the valve and improve blood flow.",
+        "url": "https://en.wikipedia.org/wiki/Aortic_valve_repair",
+        "gif": "/elderly_with_abdominal_pain.gif"
+    },
+    {
+        "title": "Haemophilia",
+        "content": "Aortic valve repair is a surgical procedure to fix a damaged or diseased aortic valve without replacing it. The goal of aortic valve repair is to restore the normal function of the valve and improve blood flow.",
+        "url": "https://en.wikipedia.org/wiki/Aortic_valve_repair",
+        "gif": "/haemophilia.gif"
+    },
+    {
+        "title": "Head Injury",
+        "content": "Aortic valve repair is a surgical procedure to fix a damaged or diseased aortic valve without replacing it. The goal of aortic valve repair is to restore the normal function of the valve and improve blood flow.",
+        "url": "https://en.wikipedia.org/wiki/Aortic_valve_repair",
+        "gif": "/head_injury.gif"
+    },
+    {
+        "title": "Keep the Blinkers off",
+        "content": "Aortic valve repair is a surgical procedure to fix a damaged or diseased aortic valve without replacing it. The goal of aortic valve repair is to restore the normal function of the valve and improve blood flow.",
+        "url": "https://en.wikipedia.org/wiki/Aortic_valve_repair",
+        "gif": "/keep_the_blinkers_off.gif"
+    },
+    {
+        "title": "Lay eyes on Patient",
+        "content": "Aortic valve repair is a surgical procedure to fix a damaged or diseased aortic valve without replacing it. The goal of aortic valve repair is to restore the normal function of the valve and improve blood flow.",
+        "url": "https://en.wikipedia.org/wiki/Aortic_valve_repair",
+        "gif": "/lay_eyes_on_patient.gif"
+    },
+    {
+        "title": "Learning Difficulties",
+        "content": "Aortic valve repair is a surgical procedure to fix a damaged or diseased aortic valve without replacing it. The goal of aortic valve repair is to restore the normal function of the valve and improve blood flow.",
+        "url": "https://en.wikipedia.org/wiki/Aortic_valve_repair",
+        "gif": "/learning_difficulties.gif"
+    },
+    {
+        "title": "LVF in Covid Zone",
+        "content": "Aortic valve repair is a surgical procedure to fix a damaged or diseased aortic valve without replacing it. The goal of aortic valve repair is to restore the normal function of the valve and improve blood flow.",
+        "url": "https://en.wikipedia.org/wiki/Aortic_valve_repair",
+        "gif": "/lvf_in_covid_zone.gif"
+    },
+    {
+        "title": "Occult Fracture NOF",
+        "content": "Aortic valve repair is a surgical procedure to fix a damaged or diseased aortic valve without replacing it. The goal of aortic valve repair is to restore the normal function of the valve and improve blood flow.",
+        "url": "https://en.wikipedia.org/wiki/Aortic_valve_repair",
+        "gif": "/occult_fracture_nof.gif"
+    },
+    {
+        "title": "Punch Injuries",
+        "content": "Aortic valve repair is a surgical procedure to fix a damaged or diseased aortic valve without replacing it. The goal of aortic valve repair is to restore the normal function of the valve and improve blood flow.",
+        "url": "https://en.wikipedia.org/wiki/Aortic_valve_repair",
+        "gif": "/punch_injuries.gif"
+    },
+    {
+        "title": "Think Aorta",
+        "content": "Aortic valve repair is a surgical procedure to fix a damaged or diseased aortic valve without replacing it. The goal of aortic valve repair is to restore the normal function of the valve and improve blood flow.",
+        "url": "https://en.wikipedia.org/wiki/Aortic_valve_repair",
+        "gif": "/think_aorta.gif"
+    },
+    {
+        "title": "Think 'WHY' the symptoms",
+        "content": "Aortic valve repair is a surgical procedure to fix a damaged or diseased aortic valve without replacing it. The goal of aortic valve repair is to restore the normal function of the valve and improve blood flow.",
+        "url": "https://en.wikipedia.org/wiki/Aortic_valve_repair",
+        "gif": "/think_why_the_symptoms.gif"
+    },
+    {
+        "title": "Trauma patient on CDU",
+        "content": "Aortic valve repair is a surgical procedure to fix a damaged or diseased aortic valve without replacing it. The goal of aortic valve repair is to restore the normal function of the valve and improve blood flow.",
+        "url": "https://en.wikipedia.org/wiki/Aortic_valve_repair",
+        "gif": "/trauma_patient_on_cdu.gif"
+    },
+    {
+        "title": "Watch Closely and Act Early",
+        "content": "Aortic valve repair is a surgical procedure to fix a damaged or diseased aortic valve without replacing it. The goal of aortic valve repair is to restore the normal function of the valve and improve blood flow.",
+        "url": "https://en.wikipedia.org/wiki/Aortic_valve_repair",
+        "gif": "/watch_closely_and_act_early.gif"
     }
 ]
