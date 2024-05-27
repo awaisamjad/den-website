@@ -1,6 +1,6 @@
 <script>
 	import MemoryCard from '../lib/components/MemoryCard.svelte';
-	import logo from '../lib/assets/logo.gif';
+	import logo from '../lib/assets/logo_white.gif';
 	import arrow from '../lib/assets/arrow.svg';
 	import { goto } from '$app/navigation';
 	import data from '/src/data.json';
@@ -16,7 +16,7 @@
 		<div class="flex justify-center items-center placeholder:p-4 space-x-4 pb-[580px]">
 			<h1 class="text-3xl font-bold text-center text-white mt-4 md:text-6xl lg:text-8xl">Memory</h1>
 			<div
-				class="rounded-full w-[44px] h-[44px] bg-[--secondary-colour] flex justify-center items-center mt-4 md:w-[64px] md:h-[64px] lg:w-[80px] lg:h-[80px] lg:mt-6"
+				class="rounded-full w-[54px] h-[54px] bg-[--secondary-colour] flex justify-center items-center mt-4 md:w-[80px] md:h-[80px] lg:w-[110px] lg:h-[110px] lg:mt-6"
 			>
 				<img
 					src={logo}
